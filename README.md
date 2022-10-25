@@ -1,5 +1,7 @@
 ### Olá! Sou o Vitor Reis 🤚
 
+### Analista e Desenvolvedor de Sistemas
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-azevedo-reis-a545a919b/)
 
 ![Vitinho GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinhoreis&show_icons=true&theme=radical)
@@ -17,5 +19,5 @@
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e o aprendizado contínuo 📖💡
+Apaixonado por tecnologia e aprendizado contínuo 📖💡
 
