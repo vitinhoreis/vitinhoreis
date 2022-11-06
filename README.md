@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
 
 ## Olá! Sou o Vitor Reis 🤚
 
@@ -7,8 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-azevedo-reis-a545a919b/)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitinhoreis&show_icons=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=90EE90&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhoreis&layout=compact&hide_border=true&title_color=90EE90&text_color=90EE90&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitinhoreis&show_icons=true&count_private=true&hide_border=true&title_color=F08080&icon_color=F08080&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhoreis&layout=compact&hide_border=true&title_color=F08080&text_color=F08080&bg_color=0d1117" />
 </div>
 
 ## Conhecimento de Tecnologias 🧠💻
@@ -26,4 +26,4 @@
 
 Apaixonado por tecnologia e aprendizado contínuo 📖💡
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=footer"/>
